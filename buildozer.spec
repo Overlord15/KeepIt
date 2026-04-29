@@ -21,6 +21,9 @@ android.permissions = CAMERA,READ_MEDIA_IMAGES,POST_NOTIFICATIONS,INTERNET
 android.archs = arm64-v8a, armeabi-v7a
 android.debug_symbols = 0
 
+icon.filename = assets/notes.png
+presplash.filename = assets/presplash.png
+android.presplash_color = #1e1e1e
 android.apptheme = @android:style/Theme.NoTitleBar
 
 log_level = 2
