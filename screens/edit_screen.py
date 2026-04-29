@@ -307,7 +307,7 @@ class EditScreen(Screen):
         # Left: pin, checklist, camera, gallery
         pin_btn,     _ = _img_btn('ic_pin.png',       24, self._toggle_pin)
         list_btn,    _ = _img_btn('ic_checklist.png', 24, self._add_checklist_item)
-        camera_btn,  _ = _img_btn('ic_camera.png',    24, self._take_picture)
+        # camera_btn,  _ = _img_btn('ic_camera.png',    24, self._take_picture)
         gallery_btn, _ = _img_btn('ic_gallery.png',   24, self._pick_image)
         # Right: back/save
         back_btn,    _ = _img_btn('ic_back.png',      24, self._close_note)
@@ -317,7 +317,7 @@ class EditScreen(Screen):
 
         topbar.add_widget(pin_btn)
         topbar.add_widget(list_btn)
-        topbar.add_widget(camera_btn)
+        # topbar.add_widget(camera_btn)
         topbar.add_widget(gallery_btn)
         topbar.add_widget(Widget())
         topbar.add_widget(back_btn)
