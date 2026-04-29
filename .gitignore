@@ -1,0 +1,69 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+
+env/
+venv/
+.venv/
+
+# Buildozer
+
+.buildozer/
+bin/
+*.apk
+*.aab
+
+# Kivy
+
+.kivy/
+*.kv.backup
+
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Gradle / Android
+
+.gradle/
+local.properties
+.gradle-cache/
+
+# Distribution / packaging
+
+dist/
+build/
+*.egg-info/
+
+# Cython
+
+*.c
+*.cpp
+
+# NLTK / datasets (optional, if downloading locally)
+
+nltk_data/
+
+# Temporary files
+
+*.tmp
+*.bak
+*~
+

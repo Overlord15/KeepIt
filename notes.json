@@ -1,0 +1,96 @@
+[
+  {
+    "id": "0f004734-ceb4-498d-810b-88912e4f0eee",
+    "title": "Kart Kund",
+    "body": "Hello boy",
+    "checklist": [
+      {
+        "text": "Kala",
+        "checked": false
+      },
+      {
+        "text": "sada",
+        "checked": false
+      }
+    ],
+    "images": [],
+    "color_index": 4,
+    "pinned": false,
+    "created_at": "2026-04-23T15:03:53.725818",
+    "updated_at": "2026-04-23T15:03:53.725818"
+  },
+  {
+    "id": "3df72c27-09ab-416e-a078-80c77fb64dc4",
+    "title": "Welcome to KeepIt!",
+    "body": "Your Google Keep clone built with Kivy.\nTap + to add a note.\nLong-press a card to select.",
+    "checklist": [],
+    "images": [],
+    "color_index": 6,
+    "pinned": true,
+    "created_at": "2026-04-23T15:03:19.181603",
+    "updated_at": "2026-04-23T16:08:49.553876"
+  },
+  {
+    "id": "0e1bb683-2e9c-43ca-8f60-427a0eb14a08",
+    "title": "Grocery List",
+    "body": "Mc Donal and StarBucks",
+    "checklist": [
+      {
+        "text": "Milk",
+        "checked": true
+      },
+      {
+        "text": "Eggs",
+        "checked": false
+      },
+      {
+        "text": "Bread",
+        "checked": false
+      },
+      {
+        "text": "Butter",
+        "checked": true
+      }
+    ],
+    "images": [
+      "/home/anupam/Pictures/Wallpaper/osaka-jade-bg-2.jpg"
+    ],
+    "color_index": 0,
+    "pinned": false,
+    "created_at": "2026-04-23T15:03:19.181632",
+    "updated_at": "2026-04-23T16:10:39.989084"
+  },
+  {
+    "id": "c04e395e-3752-4e36-9e16-7f187089c618",
+    "title": "Project Ideas",
+    "body": "1. Build a Kivy app\n2. Learn machine learning\n3. Deploy to Android",
+    "checklist": [],
+    "images": [],
+    "color_index": 3,
+    "pinned": false,
+    "created_at": "2026-04-23T15:03:19.181641",
+    "updated_at": "2026-04-23T15:03:19.181641"
+  },
+  {
+    "id": "a5de14b6-1bf8-49ad-891d-1c5a91e39636",
+    "title": "Hues",
+    "body": "Remember to buy birthday gift for mom",
+    "checklist": [],
+    "images": [],
+    "color_index": 9,
+    "pinned": false,
+    "created_at": "2026-04-23T15:03:19.181647",
+    "updated_at": "2026-04-23T15:30:58.246232"
+  },
+  {
+    "id": "60548210-fd03-4a39-8903-8f9bf9e7d05a",
+    "title": "Recipe — Pasta",
+    "body": "Boil water\nAdd salt\nCook pasta 8 mins\nMake sauce with tomatoes",
+    "checklist": [],
+    "images": [],
+    "color_index": 2,
+    "pinned": false,
+    "created_at": "2026-04-23T15:03:19.181652",
+    "updated_at": "2026-04-23T15:03:19.181652"
+  }
+]
